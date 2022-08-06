@@ -7,11 +7,11 @@
 Currently open for full-time/intern job roles in frontend development & UI development
 ```
 
-<h3>I'm Gurushesh Pawar, a passionate FrontEnd Web Developer from India</h3>
+<h3>I'm mehdi ben fraj , a passionate FrontEnd Web Developer from tunisie </h3>
 
 - 🔭 I’m currently working on **Front-end projects**
 - 🌱 I’m currently learning **React.js and NodeJS**
-- 📫 How to reach me: [LinkedIn - @gurusheshp](https://www.linkedin.com/in/gurusheshp/)
+- 📫 How to reach me: [LinkedIn - @mehdifrag](https://www.linkedin.com/in/mehdifrag/)
 
 ### Skills
 
